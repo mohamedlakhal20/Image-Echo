@@ -1,0 +1,42 @@
+[
+  {
+    "name": "ai (3).png",
+    "url": "http://localhost:3333/uploads/ai (3).png",
+    "likes": 0
+  },
+  {
+    "name": "ai (4).png",
+    "url": "http://localhost:3333/uploads/ai (4).png",
+    "likes": 0
+  },
+  {
+    "name": "ai (5).png",
+    "url": "http://localhost:3333/uploads/ai (5).png",
+    "likes": 0
+  },
+  {
+    "name": "ai1 (1).png",
+    "url": "http://localhost:3333/uploads/ai (5).png",
+    "likes": 1
+  },
+  {
+    "name": "ai1 (2).png",
+    "url": "http://localhost:3333/uploads/ai (5).png",
+    "likes": 1
+  },
+  {
+    "name": "ai (6).png",
+    "url": "http://localhost:3333/uploads/ai (6).png",
+    "likes": 0
+  },
+  {
+    "name": "zoro1.jpg",
+    "url": "http://localhost:3333/uploads/zoro1.jpg",
+    "likes": 0
+  },
+  {
+    "name": "zoro2.jpg",
+    "url": "http://localhost:3333/uploads/zoro2.jpg",
+    "likes": 0
+  }
+]
